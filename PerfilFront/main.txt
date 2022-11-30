@@ -1,1 +1,9 @@
 
+Creación de perfil profesional utilizando HTML-CSS
+a. Crear una página utilizando HTML – CSS en donde se pueda leer su perfil
+profesional. La página debe contener al menos los siguientes datos:
+i. Nombre completo.
+ii. Correo electrónico.
+iii. Profesión (Si cuenta con ella).
+iv. Dirección repositorio github.
+v. Perfil profesional.
